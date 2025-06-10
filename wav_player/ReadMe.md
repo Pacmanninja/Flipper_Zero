@@ -1,4 +1,4 @@
-Needs the [WAV Player application](https://github.com/flipperdevices/flipperzero-firmware/tree/zlo/wav-player/applications/wav_player) compiled into firmware. Original code from [Zlo](https://github.com/flipperdevices/flipperzero-firmware/tree/zlo/wav-player) and most files provided by [RogueMaster](https://github.com/RogueMaster).
+Needs the [WAV Player application](https://github.com/LTVA1/wav_player) [Flipper Lab download](https://lab.flipper.net/apps/wav_player) compiled into firmware. Original code from [Zlo](https://github.com/flipperdevices/flipperzero-firmware/tree/zlo/wav-player) and most files provided by [RogueMaster](https://github.com/RogueMaster).
 
 Create a wav_player folder in the root of your SD card. You'll need **8-bit, 2 channel, unsigned WAV files** (try [Audacity](https://www.audacityteam.org/) for conversion.)
 

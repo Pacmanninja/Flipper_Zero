@@ -7,3 +7,6 @@
 [submodule "BadUSB/InfoSecREDD/omg-payloads"]
 	path = BadUSB/InfoSecREDD/omg-payloads
 	url = https://github.com/InfoSecREDD/omg-payloads.git
+[submodule "Dolphin_Level/Modding_Scripts"]
+	path = Dolphin_Level/Modding_Scripts
+	url = https://github.com/DroomOne/FlipperScripts.git
