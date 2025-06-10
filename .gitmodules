@@ -14,3 +14,9 @@
 	path = flipper-zero-evil-portal
 	url = https://github.com/bigbrodude6119/flipper-zero-evil-portal.git
 
+[submodule "Firmware_Options/Unleashed_FirmWare"]
+	path = Firmware_Options/Unleashed_FirmWare
+	url = https://github.com/DarkFlippers/unleashed-firmware.git
+[submodule "Firmware_Options/Official_Firmware"]
+	path = Firmware_Options/Official_Firmware
+	url = https://github.com/flipperdevices/flipperzero-firmware.git
