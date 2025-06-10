@@ -13,6 +13,4 @@
 [submodule "flipper-zero-evil-portal"]
 	path = flipper-zero-evil-portal
 	url = https://github.com/bigbrodude6119/flipper-zero-evil-portal.git
-[submodule "Dolphin_Level"]
-	path = Dolphin_Level
-	url = https://github.com/RocketGod-git/Flipper_Zero/tree/68671badec09581983919b12b743244af3892341/Dolphin_Level
+
