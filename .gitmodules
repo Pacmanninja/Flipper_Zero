@@ -10,3 +10,6 @@
 [submodule "Dolphin_Level/Modding_Scripts"]
 	path = Dolphin_Level/Modding_Scripts
 	url = https://github.com/DroomOne/FlipperScripts.git
+[submodule "flipper-zero-evil-portal"]
+	path = flipper-zero-evil-portal
+	url = https://github.com/bigbrodude6119/flipper-zero-evil-portal.git
