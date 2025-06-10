@@ -7,9 +7,12 @@
 [submodule "BadUSB/InfoSecREDD/omg-payloads"]
 	path = BadUSB/InfoSecREDD/omg-payloads
 	url = https://github.com/InfoSecREDD/omg-payloads.git
-[submodule "Dolphin_Level/Modding_Scripts"]
-	path = Dolphin_Level/Modding_Scripts
+[submodule "Dolphin_Level_Modding_Scripts"]
+	path = Dolphin_Level_Modding_Scripts
 	url = https://github.com/DroomOne/FlipperScripts.git
 [submodule "flipper-zero-evil-portal"]
 	path = flipper-zero-evil-portal
 	url = https://github.com/bigbrodude6119/flipper-zero-evil-portal.git
+[submodule "Dolphin_Level"]
+	path = Dolphin_Level
+	url = https://github.com/RocketGod-git/Flipper_Zero/tree/68671badec09581983919b12b743244af3892341/Dolphin_Level
